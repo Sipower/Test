@@ -14,7 +14,7 @@ You can _**have some**_ *text* to **describe** your product. For more informaito
 var i = 99;
 ```
 
-> Text that is a quote
+> Text that is a quote of Thomas Jefferson's 
 
 Unsorted list
 
@@ -25,6 +25,6 @@ Unsorted list
 
 Sorted list:
 
-1. one
-1. two
+1. One
+1. Two
 1. Three
